@@ -1,3 +1,3 @@
-# Lattice model for simulation of lipid and protein interacton
+# Lattice model for simulations of lipid and protein interactions in a flat membrane
 
-This is the simulation code for the first part of my master thesis. The code helps to simulate a lipid mixture in membrame which is represented by an 2D lattice. The analysis of this model is published in [PRE](https://doi.org/10.1103/PhysRevE.100.042410) ([arXiv](https://arxiv.org/abs/1909.08659)). I worked from May 2016 to June 2017 on this project.
+This is the simulation code for the first part of my master thesis. The code helps to simulate a lipid mixture in membrane which is represented by an 2D lattice. The analysis of this model is published in [PRE](https://doi.org/10.1103/PhysRevE.100.042410) and on [arXiv preprints](https://arxiv.org/abs/1909.08659). I worked from May 2016 to June 2017 on this project. The documentation is far from complete. If you have questions, please write me an [e-mail](mailto:moritzhoferer@gmail.com?subject=Question%20regarding%20code%20of%20lattice%20membrane%20model).
