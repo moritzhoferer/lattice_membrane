@@ -1,4 +1,4 @@
-#!/usr/bin/ipython
+#!/usr/bin/python3
 
 # use this program to construct the inputfiles for basic_ising (v1.0)
 # creates also a file "option.txt". this is neccessary for running jobs
